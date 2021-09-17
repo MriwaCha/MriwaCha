@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MriwaCha
 - 👀 I’m interested in Fullstack
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 🐍
 
      You Are WELCOME to MY WORLD 🌐🌍🤗
 <!---
